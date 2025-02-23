@@ -20,6 +20,9 @@ Below are the screenshots of the Excel analysis performed on the dataset:
 ![Excel Analysis Screenshot 4](Product_KPIs.png)
 *Figure 4: Product KPIs*
 
+![Notebook Screenshot 5](predicted_clv.png)
+*Figure 5: Predicted CLV*
+
 ### Kaggle Notebook
 The detailed analysis and modeling process can be found in the Kaggle notebook:
 
